@@ -1,0 +1,31 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: AITD Plugin\n"
+"Content-Type: text/plain; charset=utf-8\n"
+
+msgid "plugins.generic.aitd.displayName"
+msgstr "Generador de Declaración de Transparencia de IA"
+
+msgid "plugins.generic.aitd.description"
+msgstr "Genera declaraciones de transparencia de IA (AITD) listas para manuscritos."
+
+msgid "plugins.generic.aitd.navMenuItem"
+msgstr "Declaración IA"
+
+msgid "plugins.generic.aitd.pageTitle"
+msgstr "Generador de Declaración de Transparencia de IA"
+
+msgid "plugins.generic.aitd.pageDescription"
+msgstr "Genera una declaración de transparencia de IA (AITD) lista para manuscritos para tu investigación."
+
+msgid "plugins.generic.aitd.loading"
+msgstr "Cargando generador AITD..."
+
+msgid "plugins.generic.aitd.settings.title"
+msgstr "Configuración del plugin AITD"
+
+msgid "plugins.generic.aitd.settings.includeInMenu"
+msgstr "Incluir en el menú de navegación"
+
+msgid "plugins.generic.aitd.settings.includeInMenu.description"
+msgstr "Muestra el enlace de Declaración IA en el menú de navegación principal de la revista."
