@@ -1,0 +1,31 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: AITD Plugin\n"
+"Content-Type: text/plain; charset=utf-8\n"
+
+msgid "plugins.generic.aitd.displayName"
+msgstr "AI Transparency Declaration Generator"
+
+msgid "plugins.generic.aitd.description"
+msgstr "Generates manuscript-ready AI Transparency Declaration (AITD) statements."
+
+msgid "plugins.generic.aitd.navMenuItem"
+msgstr "AI Declaration"
+
+msgid "plugins.generic.aitd.pageTitle"
+msgstr "AI Transparency Declaration Generator"
+
+msgid "plugins.generic.aitd.pageDescription"
+msgstr "Generate a manuscript-ready AI Transparency Declaration (AITD) statement for your research."
+
+msgid "plugins.generic.aitd.loading"
+msgstr "Loading AITD Generator..."
+
+msgid "plugins.generic.aitd.settings.title"
+msgstr "AITD Plugin Settings"
+
+msgid "plugins.generic.aitd.settings.includeInMenu"
+msgstr "Include in Navigation Menu"
+
+msgid "plugins.generic.aitd.settings.includeInMenu.description"
+msgstr "Show the AI Declaration link in the journal's primary navigation menu."
