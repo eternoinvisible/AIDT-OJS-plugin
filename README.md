@@ -40,4 +40,4 @@ GNU AGPL v3.0
 
 ## Credits
 
-Developed by Sergio Santamarina based on the AITD model v1.1.
+Developed by Sergio Santamarina and Carlos Authier based on the AITD model v1.1.
