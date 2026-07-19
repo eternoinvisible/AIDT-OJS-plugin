@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE version SYSTEM "../../../dtd/pluginVersion.dtd">
+<version>
+    <application>ojs2</application>
+    <type>plugins.generic</type>
+    <name>aitdPlugin</name>
+    <release>1.0.0.0</release>
+    <date>2026-07-19</date>
+    <lazy-load>1</lazy-load>
+    <class>plugins.generic.aitdPlugin.AitdPlugin</class>
+</version>
